@@ -114,7 +114,7 @@ All of the figures above are produced with the Generic Mapping Tools (GMT) using
 ## Meta
 This project was submitted as part of coursework for the 3rd year undergraduate module *EART60001b Independent Project - Geophysics* in the Department of Earth Science and Engineering at Imperial College London.
 
-This project may be freely copied and distributed provided the source is acknowledged explicitly. Please consult with your module coordinator before using this as part of your coursework.
+This project may be freely copied and distributed provided the source is acknowledged explicitly. Please consult your module coordinator before using this code as part of your coursework.
 
 ### Acknowledgements
 I would like to thank the Department of Earth Science and Engineering at Imperial College London for providing us with the project requirements, in particular Dr Ian Bastow for providing the module handout and his valuable guidance throughout the project. 
