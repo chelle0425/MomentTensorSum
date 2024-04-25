@@ -72,7 +72,7 @@ This code is best used in conjunction with the Generic Mapping Tools (GMT) for p
 </figure>
 <br />
 <em>Summed Kostrov moment tensor for each region of coherent deformation presented as "beach ball" focal mechanisms, of the Northwestern North-America region. Numbers by the focal mechanism indicates which box it is associated with, whereas summed moment tensor magnitude can be seen by the size of the focal mechanism. Kostrov summation can be easily performed for each region of coherent deformation using this code.</em>
-
+<br />
 <figure>
     <img src="https://github.com/chelle0425/MomentTensorSum/assets/128195508/5463b45a-ae92-4a90-bea8-0d599e628462"
          width="750"
