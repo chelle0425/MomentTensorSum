@@ -121,6 +121,6 @@ I would like to thank the Department of Earth Science and Engineering at Imperia
 
 Additionally, this code would not have been possible without guidance from Rebecca Colquhoun from the department and the amazing GTAs for this module, who helped fix crucial bugs and provided helpful comments and feedback.
 
-*Version 1.1*
+*Version 1.0.0*
 
 <rochelle.pun@gmail.com>, 2023
